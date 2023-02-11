@@ -10,7 +10,7 @@ foreach(char c in ch)
     sum += Convert.ToInt32(c.ToString());
 }
 Console.WriteLine(sum);
-
+//find digits of a number
 int num=2456;
 char[] chNums = num.ToString().ToCharArray();
 sum = 0;
