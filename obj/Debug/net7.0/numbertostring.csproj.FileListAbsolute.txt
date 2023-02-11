@@ -1,0 +1,15 @@
+/media/biruk/New Volume/Andela/NetCore/numbertostring/bin/Debug/net7.0/numbertostring
+/media/biruk/New Volume/Andela/NetCore/numbertostring/bin/Debug/net7.0/numbertostring.deps.json
+/media/biruk/New Volume/Andela/NetCore/numbertostring/bin/Debug/net7.0/numbertostring.runtimeconfig.json
+/media/biruk/New Volume/Andela/NetCore/numbertostring/bin/Debug/net7.0/numbertostring.dll
+/media/biruk/New Volume/Andela/NetCore/numbertostring/bin/Debug/net7.0/numbertostring.pdb
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/numbertostring.csproj.AssemblyReference.cache
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/numbertostring.GeneratedMSBuildEditorConfig.editorconfig
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/numbertostring.AssemblyInfoInputs.cache
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/numbertostring.AssemblyInfo.cs
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/numbertostring.csproj.CoreCompileInputs.cache
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/numbertostring.dll
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/refint/numbertostring.dll
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/numbertostring.pdb
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/numbertostring.genruntimeconfig.cache
+/media/biruk/New Volume/Andela/NetCore/numbertostring/obj/Debug/net7.0/ref/numbertostring.dll
